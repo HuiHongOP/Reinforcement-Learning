@@ -3,7 +3,7 @@
 
 # Maze Reinforcement Learning 
 
-# Overview: The goal of the project was to use reinforcement learning to train an agent/mouse to reach the target or achieve a certain task. Reinforcement learning is a system of learning through reward and penalty that helps the agent to follow the right instructions. In maze reinforcement learning, it consists of Markov Decision Process, Exploitation vs Exploration, Bellman Equation,Q-learning, or Q-Sarsa and N- steps look ahead.
+Overview: The goal of the project was to use reinforcement learning to train an agent/mouse to reach the target or achieve a certain task. Reinforcement learning is a system of learning through reward and penalty that helps the agent to follow the right instructions. In maze reinforcement learning, it consists of Markov Decision Process, Exploitation vs Exploration, Bellman Equation,Q-learning, or Q-Sarsa and N- steps look ahead.
 
 # Markov Decision Process has 5 different components:
 
